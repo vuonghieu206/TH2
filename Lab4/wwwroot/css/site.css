@@ -1,0 +1,15 @@
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 1.8rem;
+}
+table th, table td {
+  vertical-align: middle;
+}
